@@ -1,0 +1,19 @@
+export const students = [
+  'Haruka',
+  'Barbora',
+  'Celia',
+  'Connor',
+  'Darragh',
+  'Doug',
+  'Gisele',
+  'Kaelin',
+  'Kate',
+  'Cae',
+  'Michael',
+  'Moa',
+  'Zak',
+  'Prash',
+  'Sam',
+  'Sonia',
+  'Sukh'
+]
